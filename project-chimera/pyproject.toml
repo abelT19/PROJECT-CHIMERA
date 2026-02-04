@@ -1,4 +1,0 @@
-[project]
-name = "project-chimera"
-version = "0.1.0"
-dependencies = ["pytest", "ruff", "black"]
